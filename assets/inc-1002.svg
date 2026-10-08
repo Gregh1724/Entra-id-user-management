@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 864 486" width="864" height="486" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+  <rect width="864" height="486" rx="12" fill="#0d1117"/>
+  <g transform="translate(22,22)">
+    <rect x="0.5" y="0.5" width="819" height="441" rx="8" fill="#161b22" stroke="#30363d"/>
+    <text x="24" y="38" font-size="20" font-weight="700" fill="#e6edf3">Ticket #INC-1002</text>
+    <rect x="702" y="18" width="94" height="28" rx="4" fill="#0f2a1a" stroke="#238636"/>
+    <text x="749" y="37" font-size="13" font-weight="600" fill="#3fb950" text-anchor="middle">Resolved</text>
+    <line x1="0" y1="62" x2="820" y2="62" stroke="#30363d"/>
+    <text x="24" y="92" font-size="16" font-weight="600" fill="#e6edf3">Set up department groups and add the new hires</text>
+    <text x="24" y="124" font-size="12" fill="#8b949e">From</text>
+    <text x="24" y="145" font-size="14" fill="#e6edf3">IT Manager</text>
+    <text x="250" y="124" font-size="12" fill="#8b949e">Priority</text>
+    <text x="250" y="145" font-size="14" fill="#d29922">Medium</text>
+    <text x="400" y="124" font-size="12" fill="#8b949e">Category</text>
+    <text x="400" y="145" font-size="14" fill="#e6edf3">Access / Groups</text>
+    <text x="600" y="124" font-size="12" fill="#8b949e">Opened</text>
+    <text x="600" y="145" font-size="14" fill="#e6edf3">Oct 8, 2026 10:05</text>
+    <line x1="24" y1="162" x2="796" y2="162" stroke="#30363d"/>
+    <text x="24" y="186" font-size="12" font-weight="600" fill="#8b949e">MESSAGE</text>
+    <text x="24" y="210" font-size="14" fill="#e6edf3">Please create a security group for each department so we can manage</text>
+    <text x="24" y="230" font-size="14" fill="#e6edf3">access by team. Add each new hire to their department group.</text>
+    <line x1="24" y1="248" x2="796" y2="248" stroke="#30363d"/>
+    <text x="24" y="270" font-size="12" font-weight="600" fill="#8b949e">INTERNAL NOTES</text>
+    <text x="24" y="294" font-size="13" fill="#8b949e" font-family="Consolas,monospace">10:08</text>
+    <text x="80" y="294" font-size="14" fill="#e6edf3">Created security groups: Accounting, Sales, HR.</text>
+    <text x="24" y="320" font-size="13" fill="#8b949e" font-family="Consolas,monospace">10:14</text>
+    <text x="80" y="320" font-size="14" fill="#e6edf3">Mike -&gt; Sales, Jessica -&gt; HR, Sarah -&gt; Accounting.</text>
+    <text x="24" y="346" font-size="13" fill="#8b949e" font-family="Consolas,monospace">10:20</text>
+    <text x="80" y="346" font-size="14" fill="#e6edf3">Checked the Members page on each group.</text>
+    <rect x="24" y="378" width="772" height="40" rx="6" fill="#0d1117" stroke="#30363d"/>
+    <text x="38" y="403" font-size="14" fill="#e6edf3"><tspan font-weight="600">Resolution: </tspan>Three groups created, each user in the right one.</text>
+  </g>
+</svg>
