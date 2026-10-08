@@ -2,6 +2,8 @@
 
 I set up a small Microsoft Entra ID (formerly Azure Active Directory) tenant and worked through the kind of requests a help desk gets about user accounts: new hires, password resets, a department change and someone leaving. Each one is written up below as a ticket, with the steps I took and screenshots from the Entra admin center.
 
+The tickets are simulated scenarios created to practice help desk documentation. The Entra ID work shown in the screenshots is real.
+
 ## Tools used
 
 - Microsoft Entra ID (formerly Azure Active Directory), managed through the Microsoft Entra admin center
